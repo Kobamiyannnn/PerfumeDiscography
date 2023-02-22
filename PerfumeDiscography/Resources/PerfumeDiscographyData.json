@@ -7,11 +7,1217 @@
         "productNumber": "TKCA-72902",
         "edition": "通常盤",
         "price": 1200,
-        "contents": [
-            "リニアモーターガール",
-            "ファンデーション",
-            "コンピュータードライビング"
-        ],
-        "description": "メジャー1stシングル"
+        "contents": {
+            "CD": [
+                "リニアモーターガール",
+                "ファンデーション",
+                "コンピュータードライビング"
+            ],
+            "bonusDisc": null
+        },
+        "description": "メジャー1stシングル。リニアモーターガールは近未来三部作の一つ。",
+        "hasThis": false
+    },
+    {
+        "name": "コンピューターシティ",
+        "category": "Single",
+        "releaseDate": "2006-01-11",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-72971",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "コンピューターシティ",
+                "Perfume"
+            ],
+            "bonusDisc": null
+        },
+        "description": "2ndシングル。コンピューターシティは近未来三部作の一つ。",
+        "hasThis": false
+    },
+    {
+        "name": "エレクトロ・ワールド",
+        "category": "Single",
+        "releaseDate": "2006-06-28",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73017",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "エレクトロ・ワールド",
+                "wonder2"
+            ],
+            "bonusDisc": null
+        },
+        "description": "3rdシングル。エレクトロ・ワールドは近未来三部作の一つ。本シングルのエレクトロ・ワールドはイントロが長いバージョン。",
+        "hasThis": false
+    },
+    {
+        "name": "Fan Service sweet",
+        "category": "Single",
+        "releaseDate": "2007-02-14",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73158",
+        "edition": "初回生産限定盤",
+        "price": 2000,
+        "contents": {
+            "CD": [
+                "チョコレイト・ディスコ",
+                "Twinkle Snow Powdery Snow"
+            ],
+            "bonusDisc": [
+                "チョコレイト・ディスコ (Video Clip)",
+                "Twinkle Snow Powdery Snow (Video Clip)"
+            ]
+        },
+        "description": "4thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ポリリズム",
+        "category": "Single",
+        "releaseDate": "2007-09-12",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73250",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "ポリリズム",
+                "SEVENTH HEAVEN",
+                "ポリリズム - extra short edit",
+                "ポリリズム - Original Instrumental",
+                "SEVENTH HEAVEN - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "ポリリズム (Video Clip)"
+            ]
+        },
+        "description": "5thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ポリリズム",
+        "category": "Single",
+        "releaseDate": "2007-09-12",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73255",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "ポリリズム",
+                "SEVENTH HEAVEN",
+                "ポリリズム - extra short edit",
+                "ポリリズム - Original Instrumental",
+                "SEVENTH HEAVEN - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "5thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Baby cruising Love / マカロニ",
+        "category": "Single",
+        "releaseDate": "2008-01-16",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73310",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "Baby cruising Love",
+                "マカロニ",
+                "Baby cruising Love - Original Instrumental",
+                "マカロニ - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Baby cruising Love (Video Clip)"
+            ]
+        },
+        "description": "6thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Baby cruising Love / マカロニ",
+        "category": "Single",
+        "releaseDate": "2008-01-16",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73315",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "Baby cruising Love",
+                "マカロニ",
+                "Baby cruising Love - Original Instrumental",
+                "マカロニ - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "6thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "love the world",
+        "category": "Single",
+        "releaseDate": "2008-07-09",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73330",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "love the world",
+                "edge",
+                "love the world - Original Instrumental",
+                "edge - extended mix"
+            ],
+            "bonusDisc": [
+                "love the world (Video Clip)"
+            ]
+        },
+        "description": "7thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "love the world",
+        "category": "Single",
+        "releaseDate": "2008-07-09",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73335",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "love the world",
+                "edge",
+                "love the world - Original Instrumental",
+                "edge - extended mix"
+            ],
+            "bonusDisc": null
+        },
+        "description": "7thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Dream Fighter",
+        "category": "Single",
+        "releaseDate": "2008-11-19",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73390",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "Dream Fighter",
+                "願い",
+                "Dream Fighter - Original Instrumental",
+                "願い - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Dream Fighter (Video Clip)"
+            ]
+        },
+        "description": "8thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Dream Fighter",
+        "category": "Single",
+        "releaseDate": "2008-11-19",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73395",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "Dream Fighter",
+                "願い",
+                "Dream Fighter - Original Instrumental",
+                "願い - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "8thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ワンルーム・ディスコ",
+        "category": "Single",
+        "releaseDate": "2009-03-25",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73430",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "ワンルーム・ディスコ",
+                "23:30",
+                "ワンルーム・ディスコ - Original Instrumental",
+                "23:30 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "ワンルーム・ディスコ (Video Clip)"
+            ]
+        },
+        "description": "9thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ワンルーム・ディスコ",
+        "category": "Single",
+        "releaseDate": "2009-03-25",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73435",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "ワンルーム・ディスコ",
+                "23:30",
+                "ワンルーム・ディスコ - Original Instrumental",
+                "23:30 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "9thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "不自然なガール / ナチュラルに恋して",
+        "category": "Single",
+        "releaseDate": "2010-04-14",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73520",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "不自然なガール",
+                "ナチュラルに恋して",
+                "不自然なガール - Original Instrumental",
+                "ナチュラルに恋して - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "不自然なガール (Video Clip)"
+            ]
+        },
+        "description": "10thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "不自然なガール / ナチュラルに恋して",
+        "category": "Single",
+        "releaseDate": "2010-04-14",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73525",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "不自然なガール",
+                "ナチュラルに恋して",
+                "不自然なガール - Original Instrumental",
+                "ナチュラルに恋して - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "10thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "VOICE",
+        "category": "Single",
+        "releaseDate": "2010-08-11",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73560",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "VOICE",
+                "575",
+                "VOICE - Original Instrumental",
+                "575 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "VOICE (Video Clip)"
+            ]
+        },
+        "description": "11thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "VOICE",
+        "category": "Single",
+        "releaseDate": "2010-08-11",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73565",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "VOICE",
+                "575",
+                "VOICE - Original Instrumental",
+                "575 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "11thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ねぇ",
+        "category": "Single",
+        "releaseDate": "2010-11-10",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73620",
+        "edition": "初回限定盤",
+        "price": 1238,
+        "contents": {
+            "CD": [
+                "ねぇ",
+                "FAKE IT",
+                "ねぇ - Original Instrumental",
+                "FAKE IT - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "ねぇ (Video Clip)"
+            ]
+        },
+        "description": "12thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "ねぇ",
+        "category": "Single",
+        "releaseDate": "2010-11-10",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73625",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "ねぇ",
+                "FAKE IT",
+                "ねぇ - Original Instrumental",
+                "FAKE IT - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "12thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "レーザービーム / 微かなカオリ",
+        "category": "Single",
+        "releaseDate": "2011-05-18",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73650",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "レーザービーム",
+                "微かなカオリ",
+                "レーザービーム - Original Instrumental",
+                "微かなカオリ - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "レーザービーム (Video Clip [Short Ver.])",
+                "ジャケット撮影時メイキング映像"
+            ]
+        },
+        "description": "13thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "レーザービーム / 微かなカオリ",
+        "category": "Single",
+        "releaseDate": "2011-05-18",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73655",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "レーザービーム",
+                "微かなカオリ",
+                "レーザービーム - Original Instrumental",
+                "微かなカオリ - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "13thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "スパイス",
+        "category": "Single",
+        "releaseDate": "2011-11-02",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73720",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "スパイス",
+                "GLITTER",
+                "スパイス - Original Instrumental",
+                "GLITTER - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "GLITTER (Video Clip)"
+            ]
+        },
+        "description": "14thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "スパイス",
+        "category": "Single",
+        "releaseDate": "2011-11-02",
+        "recordLabel": "Tokuma Japan Communication",
+        "productNumber": "TKCA-73725",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "スパイス",
+                "GLITTER",
+                "スパイス - Original Instrumental",
+                "GLITTER - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "14thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Spring of Life",
+        "category": "Single",
+        "releaseDate": "2012-04-11",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9001",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "Spring of Life",
+                "コミュニケーション",
+                "Spring of Life - Original Instrumental",
+                "コミュニケーション - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Spring of Life (Video Clip)"
+            ]
+        },
+        "description": "15thシングル。レーベル移籍後初めてのシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Spring of Life",
+        "category": "Single",
+        "releaseDate": "2012-04-11",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5001",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "Spring of Life",
+                "コミュニケーション",
+                "Spring of Life - Original Instrumental",
+                "コミュニケーション - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "15thシングル。レーベル移籍後初めてのシングル",
+        "hasThis": false
+    },
+    {
+        "name": "Spending all my time",
+        "category": "Single",
+        "releaseDate": "2012-08-15",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9002",
+        "edition": "初回限定盤",
+        "price": 1695,
+        "contents": {
+            "CD": [
+                "Spending all my time",
+                "ポイント",
+                "Hurly Burly",
+                "Spending all my time - Original Instrumental",
+                "ポイント - Original Instrumental",
+                "Hurly Burly - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Spending all my time (Video Clip)"
+            ]
+        },
+        "description": "16thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Spending all my time",
+        "category": "Single",
+        "releaseDate": "2012-08-15",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5002",
+        "edition": "通常盤",
+        "price": 1200,
+        "contents": {
+            "CD": [
+                "Spending all my time",
+                "ポイント",
+                "Hurly Burly",
+                "Spending all my time - Original Instrumental",
+                "ポイント - Original Instrumental",
+                "Hurly Burly - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "16thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "未来のミュージアム",
+        "category": "Single",
+        "releaseDate": "2013-02-27",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9003",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "未来のミュージアム",
+                "だいじょばない",
+                "未来のミュージアム - Original Instrumental",
+                "だいじょばない - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "未来のミュージアム (Video Clip)"
+            ]
+        },
+        "description": "17thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "未来のミュージアム",
+        "category": "Single",
+        "releaseDate": "2013-02-27",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5003",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "未来のミュージアム",
+                "だいじょばない",
+                "未来のミュージアム - Original Instrumental",
+                "だいじょばない - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "17thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Magic of Love",
+        "category": "Single",
+        "releaseDate": "2013-05-22",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9004",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "Magic of Love",
+                "Handy Man",
+                "Magic of Love - Original Instrumental",
+                "Handy Man - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Magic of Love (Video Clip)"
+            ]
+        },
+        "description": "18thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Magic of Love",
+        "category": "Single",
+        "releaseDate": "2013-05-22",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5004",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "Magic of Love",
+                "Handy Man",
+                "Magic of Love - Original Instrumental",
+                "Handy Man - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "18thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Sweet Refrain",
+        "category": "Single",
+        "releaseDate": "2013-11-27",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9006",
+        "edition": "初回限定盤",
+        "price": 1429,
+        "contents": {
+            "CD": [
+                "Sweet Refrain",
+                "恋は前傾姿勢",
+                "Sweet Refrain - Original Instrumental",
+                "恋は前傾姿勢 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Sweet Refrain (Video Clip)"
+            ]
+        },
+        "description": "19thシングル",
+        "hasThis": false
+    },
+    {
+        "name": "Sweet Refrain",
+        "category": "Single",
+        "releaseDate": "2013-11-27",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5005",
+        "edition": "通常盤",
+        "price": 952,
+        "contents": {
+            "CD": [
+                "Sweet Refrain",
+                "恋は前傾姿勢",
+                "Sweet Refrain - Original Instrumental",
+                "恋は前傾姿勢 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "19thシングル",
+        "hasThis": false
+    },
+    {
+        "name": "Cling Cling",
+        "category": "Single",
+        "releaseDate": "2014-07-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9007",
+        "edition": "完全生産限定盤",
+        "price": 2430,
+        "contents": {
+            "CD": [
+                "Cling Cling",
+                "Hold Your Hand",
+                "DISPLAY",
+                "いじわるなハロー",
+                "Cling Cling - Original Instrumental",
+                "Hold Your Hand - Original Instrumental",
+                "DISPLAY - Original Instrumental",
+                "いじわるなハロー - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Cling Cling (Video Clip)",
+                "Cling Cling (Teaser)",
+                "DISPLAY (Video Clip [Short Ver.])",
+                "「Perfume FES!! 2014」3/15〜4/11ダイジェスト",
+                "西脇家メモリアル「スパイス」「SHINING☆STAR」"
+            ]
+        },
+        "description": "20thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Cling Cling",
+        "category": "Single",
+        "releaseDate": "2014-07-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9008",
+        "edition": "初回盤",
+        "price": 1950,
+        "contents": {
+            "CD": [
+                "Cling Cling",
+                "Hold Your Hand",
+                "DISPLAY",
+                "いじわるなハロー",
+                "Cling Cling - Original Instrumental",
+                "Hold Your Hand - Original Instrumental",
+                "DISPLAY - Original Instrumental",
+                "いじわるなハロー - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Cling Cling (Video Clip)",
+                "Cling Cling (Teaser)",
+                "DISPLAY (Video Clip [Short Ver.])",
+                "「Perfume FES!! 2014」3/15〜4/11ダイジェスト"
+            ]
+        },
+        "description": "20thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Cling Cling",
+        "category": "Single",
+        "releaseDate": "2014-07-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5006",
+        "edition": "通常盤",
+        "price": 1450,
+        "contents": {
+            "CD": [
+                "Cling Cling",
+                "Hold Your Hand",
+                "DISPLAY",
+                "いじわるなハロー"
+            ],
+            "bonusDisc": null
+        },
+        "description": "20thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Relax In The City / Pick Me Up",
+        "category": "Single",
+        "releaseDate": "2015-04-29",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9010",
+        "edition": "完全生産限定盤",
+        "price": 2407,
+        "contents": {
+            "CD": [
+                "Relax In The City",
+                "Pick Me Up",
+                "透明人間",
+                "Relax In The City - Original Instrumental",
+                "Pick Me Up - Original Instrumental",
+                "透明人間 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Relax In The City (Video Clip)",
+                "Relax In The City (Teaser)",
+                "Pick Me Up (Video Clip)"
+            ]
+        },
+        "description": "21thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Relax In The City / Pick Me Up",
+        "category": "Single",
+        "releaseDate": "2015-04-29",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9011",
+        "edition": "初回盤",
+        "price": 1759,
+        "contents": {
+            "CD": [
+                "Relax In The City",
+                "Pick Me Up",
+                "透明人間",
+                "Relax In The City - Original Instrumental",
+                "Pick Me Up - Original Instrumental",
+                "透明人間 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Relax In The City (Video Clip)",
+                "Relax In The City (Teaser)",
+                "Pick Me Up (Video Clip)"
+            ]
+        },
+        "description": "21thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Relax In The City / Pick Me Up",
+        "category": "Single",
+        "releaseDate": "2015-04-29",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5007",
+        "edition": "通常盤",
+        "price": 1343,
+        "contents": {
+            "CD": [
+                "Relax In The City",
+                "Pick Me Up",
+                "透明人間"
+            ],
+            "bonusDisc": null
+        },
+        "description": "21thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "STAR TRAIN",
+        "category": "Single",
+        "releaseDate": "2015-10-28",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9012",
+        "edition": "初回限定盤",
+        "price": 1850,
+        "contents": {
+            "CD": [
+                "STAR TRAIN",
+                "TOKIMEKI LIGHTS",
+                "イミテーションワールド",
+                "STAR TRAIN - Original Instrumental",
+                "TOKIMEKI LIGHTS - Original Instrumental",
+                "イミテーションワールド - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "STAR TRAIN (Video Clip)",
+                "Perfume View"
+            ]
+        },
+        "description": "22thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "STAR TRAIN",
+        "category": "Single",
+        "releaseDate": "2015-10-28",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5008",
+        "edition": "通常盤",
+        "price": 926,
+        "contents": {
+            "CD": [
+                "STAR TRAIN",
+                "TOKIMEKI LIGHTS"
+            ],
+            "bonusDisc": null
+        },
+        "description": "22thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "TOKYO GIRL",
+        "category": "Single",
+        "releaseDate": "2017-02-15",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9015",
+        "edition": "初回限定盤",
+        "price": 1759,
+        "contents": {
+            "CD": [
+                "TOKYO GIRL",
+                "宝石の雨",
+                "TOKYO GIRL - Original Instrumental",
+                "宝石の雨 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "TOKYO GIRL (Video Clip)",
+                "Perfume View",
+                "Special Teaser Trailer"
+            ]
+        },
+        "description": "23thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "TOKYO GIRL",
+        "category": "Single",
+        "releaseDate": "2017-02-15",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5009",
+        "edition": "通常盤",
+        "price": 1343,
+        "contents": {
+            "CD": [
+                "TOKYO GIRL",
+                "宝石の雨",
+                "TOKYO GIRL - Original Instrumental",
+                "宝石の雨 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "23thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "If you wanna",
+        "category": "Single",
+        "releaseDate": "2017-08-30",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9016",
+        "edition": "完全生産限定盤",
+        "price": 2250,
+        "contents": {
+            "CD": [
+                "If you wanna",
+                "Everyday",
+                "If you wanna - Original Instrumental",
+                "Everyday - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Everyday (Video Clip)",
+                "Everyday (メイキング映像)",
+                "TOKYO GIRL (Perfume Fes!! 2017)",
+                "宝石の雨 (Perfume Fess!! 2017)"
+            ]
+        },
+        "description": "24thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "If you wanna",
+        "category": "Single",
+        "releaseDate": "2017-08-30",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9017",
+        "edition": "初回限定盤",
+        "price": 1759,
+        "contents": {
+            "CD": [
+                "If you wanna",
+                "Everyday",
+                "If you wanna - Original Instrumental",
+                "Everyday - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Everyday (Video Clip)",
+                "Perfume View"
+            ]
+        },
+        "description": "24thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "If you wanna",
+        "category": "Single",
+        "releaseDate": "2017-08-30",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5010",
+        "edition": "通常盤",
+        "price": 1343,
+        "contents": {
+            "CD": [
+                "If you wanna",
+                "Everyday",
+                "If you wanna - Original Instrumental",
+                "Everyday - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "24thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "無限未来",
+        "category": "Single",
+        "releaseDate": "2018-03-14",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9018",
+        "edition": "初回限定盤",
+        "price": 2250,
+        "contents": {
+            "CD": [
+                "無限未来",
+                "FUSION",
+                "無限未来 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "無限未来 (Video Clip)",
+                "Perfume View",
+                "「【docomo×Perfume】FUTURE-EXPERIMENT VOL.01 距離をなくせ。」",
+                "「【docomo×Perfume】FUTURE-EXPERIMENT VOL.01 距離をなくせ。」MC",
+                "「【docomo×Perfume】FUTURE-EXPERIMENT VOL.01 距離をなくせ。」TV-CM",
+                "「【docomo×Perfume】FUTURE-EXPERIMENT VOL.01 距離をなくせ。」SPECIAL OFF SHOT"
+            ]
+        },
+        "description": "25thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "無限未来",
+        "category": "Single",
+        "releaseDate": "2018-03-14",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9019",
+        "edition": "期間限定 ちはやふる盤",
+        "price": 1574,
+        "contents": {
+            "CD": [
+                "無限未来",
+                "FLASH",
+                "無限未来 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "無限未来 (Video Clip)",
+                "Perfume View (ちはやふるVer)"
+            ]
+        },
+        "description": "25thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "無限未来",
+        "category": "Single",
+        "releaseDate": "2018-03-14",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5011",
+        "edition": "通常盤",
+        "price": 1343,
+        "contents": {
+            "CD": [
+                "無限未来",
+                "FUSION",
+                "無限未来 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "25thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Time Warp",
+        "category": "Single",
+        "releaseDate": "2020-09-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9026",
+        "edition": "完全生産限定盤",
+        "price": 2627,
+        "contents": {
+            "CD": [
+                "Time Warp",
+                "再生",
+                "Time Warp - Original Instrumental",
+                "再生 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Time Warp (Video Clip)",
+                "再生 (Video Clip)",
+                "Perfume View",
+                "再生 (メイキング映像)"
+            ]
+        },
+        "description": "26thシングル。カセットテープ付き。",
+        "hasThis": false
+    },
+    {
+        "name": "Time Warp",
+        "category": "Single",
+        "releaseDate": "2020-09-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9027",
+        "edition": "初回限定盤",
+        "price": 1818,
+        "contents": {
+            "CD": [
+                "Time Warp",
+                "再生",
+                "Time Warp - Original Instrumental",
+                "再生 - Original Instrumental"
+            ],
+            "bonusDisc": [
+                "Time Warp (Video Clip)",
+                "再生 (Video Clip)",
+                "Perfume View",
+                "再生 (メイキング映像)"
+            ]
+        },
+        "description": "26thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Time Warp",
+        "category": "Single",
+        "releaseDate": "2020-09-16",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5012",
+        "edition": "通常盤",
+        "price": 1343,
+        "contents": {
+            "CD": [
+                "Time Warp",
+                "再生",
+                "Time Warp - Original Instrumental",
+                "再生 - Original Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "26thシングル。初回限定盤が捌けたら発売されるらしいがまだ売ってない？",
+        "hasThis": false
+    },
+    {
+        "name": "Flow",
+        "category": "Single",
+        "releaseDate": "2022-03-09",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9030",
+        "edition": "初回限定盤A",
+        "price": 2800,
+        "contents": {
+            "CD": [
+                "Flow",
+                "マワルカガミ (polygon wave live ver.)",
+                "Flow - Instrumental",
+                "マワルカガミ (polygon wave live ver.) - Instrumental"
+            ],
+            "bonusDisc": [
+                "マワルカガミ (polygon wave live ver.) @ Perfume LIVE 2021 [polygon wave] -New Edit-",
+                "Perfume View -Perfume LIVE 2022 [polygon wave]-"
+            ]
+        },
+        "description": "27thシングル。特典ディスクとしてBlu-rayが選択できるように。",
+        "hasThis": false
+    },
+    {
+        "name": "Flow",
+        "category": "Single",
+        "releaseDate": "2022-03-09",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-9031",
+        "edition": "初回限定盤B",
+        "price": 2100,
+        "contents": {
+            "CD": [
+                "Flow",
+                "マワルカガミ (polygon wave live ver.)",
+                "Flow - Instrumental",
+                "マワルカガミ (polygon wave live ver.) - Instrumental"
+            ],
+            "bonusDisc": [
+                "マワルカガミ (polygon wave live ver.) @ Perfume LIVE 2021 [polygon wave] -New Edit-",
+                "Perfume View -Perfume LIVE 2022 [polygon wave]-"
+            ]
+        },
+        "description": "27thシングル。",
+        "hasThis": false
+    },
+    {
+        "name": "Flow",
+        "category": "Single",
+        "releaseDate": "2022-03-09",
+        "recordLabel": "Universal Music Japan",
+        "productNumber": "UPCP-5013",
+        "edition": "通常盤",
+        "price": 1500,
+        "contents": {
+            "CD": [
+                "Flow",
+                "マワルカガミ (polygon wave live ver.)",
+                "Flow - Instrumental",
+                "マワルカガミ (polygon wave live ver.) - Instrumental"
+            ],
+            "bonusDisc": null
+        },
+        "description": "27thシングル。",
+        "hasThis": false
     }
 ]
