@@ -44,6 +44,7 @@
 		07C7BB9229A5F3BF00D8143D /* PerfumeDiscographyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PerfumeDiscographyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		07C7BB9629A5F3BF00D8143D /* PerfumeDiscographyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyUITests.swift; sourceTree = "<group>"; };
 		07C7BB9829A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		07C7BBA729A5F51800D8143D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		07C7BB6F29A5F3BD00D8143D = {
 			isa = PBXGroup;
 			children = (
+				07C7BBA729A5F51800D8143D /* README.md */,
 				07C7BB7A29A5F3BD00D8143D /* PerfumeDiscography */,
 				07C7BB8B29A5F3BF00D8143D /* PerfumeDiscographyTests */,
 				07C7BB9529A5F3BF00D8143D /* PerfumeDiscographyUITests */,
