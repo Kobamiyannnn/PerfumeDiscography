@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		07C7BB7C29A5F3BD00D8143D /* PerfumeDiscographyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */; };
+		07C7BB7E29A5F3BD00D8143D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB7D29A5F3BD00D8143D /* ContentView.swift */; };
+		07C7BB8029A5F3BF00D8143D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C7BB7F29A5F3BF00D8143D /* Assets.xcassets */; };
+		07C7BB8329A5F3BF00D8143D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C7BB8229A5F3BF00D8143D /* Preview Assets.xcassets */; };
+		07C7BB8D29A5F3BF00D8143D /* PerfumeDiscographyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB8C29A5F3BF00D8143D /* PerfumeDiscographyTests.swift */; };
+		07C7BB9729A5F3BF00D8143D /* PerfumeDiscographyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB9629A5F3BF00D8143D /* PerfumeDiscographyUITests.swift */; };
+		07C7BB9929A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB9829A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		07C7BB8929A5F3BF00D8143D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 07C7BB7029A5F3BD00D8143D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 07C7BB7729A5F3BD00D8143D;
+			remoteInfo = PerfumeDiscography;
+		};
+		07C7BB9329A5F3BF00D8143D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 07C7BB7029A5F3BD00D8143D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 07C7BB7729A5F3BD00D8143D;
+			remoteInfo = PerfumeDiscography;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		07C7BB7829A5F3BD00D8143D /* PerfumeDiscography.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PerfumeDiscography.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyApp.swift; sourceTree = "<group>"; };
+		07C7BB7D29A5F3BD00D8143D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		07C7BB7F29A5F3BF00D8143D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		07C7BB8229A5F3BF00D8143D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		07C7BB8829A5F3BF00D8143D /* PerfumeDiscographyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PerfumeDiscographyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		07C7BB8C29A5F3BF00D8143D /* PerfumeDiscographyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyTests.swift; sourceTree = "<group>"; };
+		07C7BB9229A5F3BF00D8143D /* PerfumeDiscographyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PerfumeDiscographyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		07C7BB9629A5F3BF00D8143D /* PerfumeDiscographyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyUITests.swift; sourceTree = "<group>"; };
+		07C7BB9829A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		07C7BB7529A5F3BD00D8143D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB8529A5F3BF00D8143D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB8F29A5F3BF00D8143D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		07C7BB6F29A5F3BD00D8143D = {
+			isa = PBXGroup;
+			children = (
+				07C7BB7A29A5F3BD00D8143D /* PerfumeDiscography */,
+				07C7BB8B29A5F3BF00D8143D /* PerfumeDiscographyTests */,
+				07C7BB9529A5F3BF00D8143D /* PerfumeDiscographyUITests */,
+				07C7BB7929A5F3BD00D8143D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		07C7BB7929A5F3BD00D8143D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB7829A5F3BD00D8143D /* PerfumeDiscography.app */,
+				07C7BB8829A5F3BF00D8143D /* PerfumeDiscographyTests.xctest */,
+				07C7BB9229A5F3BF00D8143D /* PerfumeDiscographyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		07C7BB7A29A5F3BD00D8143D /* PerfumeDiscography */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */,
+				07C7BB7D29A5F3BD00D8143D /* ContentView.swift */,
+				07C7BB7F29A5F3BF00D8143D /* Assets.xcassets */,
+				07C7BB8129A5F3BF00D8143D /* Preview Content */,
+			);
+			path = PerfumeDiscography;
+			sourceTree = "<group>";
+		};
+		07C7BB8129A5F3BF00D8143D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB8229A5F3BF00D8143D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		07C7BB8B29A5F3BF00D8143D /* PerfumeDiscographyTests */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB8C29A5F3BF00D8143D /* PerfumeDiscographyTests.swift */,
+			);
+			path = PerfumeDiscographyTests;
+			sourceTree = "<group>";
+		};
+		07C7BB9529A5F3BF00D8143D /* PerfumeDiscographyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB9629A5F3BF00D8143D /* PerfumeDiscographyUITests.swift */,
+				07C7BB9829A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift */,
+			);
+			path = PerfumeDiscographyUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		07C7BB7729A5F3BD00D8143D /* PerfumeDiscography */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07C7BB9C29A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscography" */;
+			buildPhases = (
+				07C7BB7429A5F3BD00D8143D /* Sources */,
+				07C7BB7529A5F3BD00D8143D /* Frameworks */,
+				07C7BB7629A5F3BD00D8143D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PerfumeDiscography;
+			productName = PerfumeDiscography;
+			productReference = 07C7BB7829A5F3BD00D8143D /* PerfumeDiscography.app */;
+			productType = "com.apple.product-type.application";
+		};
+		07C7BB8729A5F3BF00D8143D /* PerfumeDiscographyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07C7BB9F29A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscographyTests" */;
+			buildPhases = (
+				07C7BB8429A5F3BF00D8143D /* Sources */,
+				07C7BB8529A5F3BF00D8143D /* Frameworks */,
+				07C7BB8629A5F3BF00D8143D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				07C7BB8A29A5F3BF00D8143D /* PBXTargetDependency */,
+			);
+			name = PerfumeDiscographyTests;
+			productName = PerfumeDiscographyTests;
+			productReference = 07C7BB8829A5F3BF00D8143D /* PerfumeDiscographyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		07C7BB9129A5F3BF00D8143D /* PerfumeDiscographyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07C7BBA229A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscographyUITests" */;
+			buildPhases = (
+				07C7BB8E29A5F3BF00D8143D /* Sources */,
+				07C7BB8F29A5F3BF00D8143D /* Frameworks */,
+				07C7BB9029A5F3BF00D8143D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				07C7BB9429A5F3BF00D8143D /* PBXTargetDependency */,
+			);
+			name = PerfumeDiscographyUITests;
+			productName = PerfumeDiscographyUITests;
+			productReference = 07C7BB9229A5F3BF00D8143D /* PerfumeDiscographyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		07C7BB7029A5F3BD00D8143D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					07C7BB7729A5F3BD00D8143D = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					07C7BB8729A5F3BF00D8143D = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 07C7BB7729A5F3BD00D8143D;
+					};
+					07C7BB9129A5F3BF00D8143D = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 07C7BB7729A5F3BD00D8143D;
+					};
+				};
+			};
+			buildConfigurationList = 07C7BB7329A5F3BD00D8143D /* Build configuration list for PBXProject "PerfumeDiscography" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 07C7BB6F29A5F3BD00D8143D;
+			productRefGroup = 07C7BB7929A5F3BD00D8143D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				07C7BB7729A5F3BD00D8143D /* PerfumeDiscography */,
+				07C7BB8729A5F3BF00D8143D /* PerfumeDiscographyTests */,
+				07C7BB9129A5F3BF00D8143D /* PerfumeDiscographyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		07C7BB7629A5F3BD00D8143D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C7BB8329A5F3BF00D8143D /* Preview Assets.xcassets in Resources */,
+				07C7BB8029A5F3BF00D8143D /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB8629A5F3BF00D8143D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB9029A5F3BF00D8143D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		07C7BB7429A5F3BD00D8143D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C7BB7E29A5F3BD00D8143D /* ContentView.swift in Sources */,
+				07C7BB7C29A5F3BD00D8143D /* PerfumeDiscographyApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB8429A5F3BF00D8143D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C7BB8D29A5F3BF00D8143D /* PerfumeDiscographyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		07C7BB8E29A5F3BF00D8143D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C7BB9729A5F3BF00D8143D /* PerfumeDiscographyUITests.swift in Sources */,
+				07C7BB9929A5F3BF00D8143D /* PerfumeDiscographyUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		07C7BB8A29A5F3BF00D8143D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 07C7BB7729A5F3BD00D8143D /* PerfumeDiscography */;
+			targetProxy = 07C7BB8929A5F3BF00D8143D /* PBXContainerItemProxy */;
+		};
+		07C7BB9429A5F3BF00D8143D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 07C7BB7729A5F3BD00D8143D /* PerfumeDiscography */;
+			targetProxy = 07C7BB9329A5F3BF00D8143D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		07C7BB9A29A5F3BF00D8143D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		07C7BB9B29A5F3BF00D8143D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		07C7BB9D29A5F3BF00D8143D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"PerfumeDiscography/Preview Content\"";
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscography;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		07C7BB9E29A5F3BF00D8143D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"PerfumeDiscography/Preview Content\"";
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscography;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		07C7BBA029A5F3BF00D8143D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscographyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PerfumeDiscography.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PerfumeDiscography";
+			};
+			name = Debug;
+		};
+		07C7BBA129A5F3BF00D8143D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscographyTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PerfumeDiscography.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/PerfumeDiscography";
+			};
+			name = Release;
+		};
+		07C7BBA329A5F3BF00D8143D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscographyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PerfumeDiscography;
+			};
+			name = Debug;
+		};
+		07C7BBA429A5F3BF00D8143D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 248KXD9Z8K;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kobamiyannnn.PerfumeDiscographyUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = PerfumeDiscography;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07C7BB7329A5F3BD00D8143D /* Build configuration list for PBXProject "PerfumeDiscography" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C7BB9A29A5F3BF00D8143D /* Debug */,
+				07C7BB9B29A5F3BF00D8143D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07C7BB9C29A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscography" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C7BB9D29A5F3BF00D8143D /* Debug */,
+				07C7BB9E29A5F3BF00D8143D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07C7BB9F29A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscographyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C7BBA029A5F3BF00D8143D /* Debug */,
+				07C7BBA129A5F3BF00D8143D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		07C7BBA229A5F3BF00D8143D /* Build configuration list for PBXNativeTarget "PerfumeDiscographyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07C7BBA329A5F3BF00D8143D /* Debug */,
+				07C7BBA429A5F3BF00D8143D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07C7BB7029A5F3BD00D8143D /* Project object */;
+}
