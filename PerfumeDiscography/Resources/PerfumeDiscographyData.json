@@ -16,7 +16,7 @@
             "bonusDisc": null
         },
         "description": "メジャー1stシングル。リニアモーターガールは近未来三部作の一つ。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "コンピューターシティ",
@@ -34,7 +34,7 @@
             "bonusDisc": null
         },
         "description": "2ndシングル。コンピューターシティは近未来三部作の一つ。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "エレクトロ・ワールド",
@@ -52,7 +52,7 @@
             "bonusDisc": null
         },
         "description": "3rdシングル。エレクトロ・ワールドは近未来三部作の一つ。本シングルのエレクトロ・ワールドはイントロが長いバージョン。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Fan Service sweet",
@@ -73,7 +73,7 @@
             ]
         },
         "description": "4thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ポリリズム",
@@ -96,7 +96,7 @@
             ]
         },
         "description": "5thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ポリリズム",
@@ -117,7 +117,7 @@
             "bonusDisc": null
         },
         "description": "5thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Baby cruising Love / マカロニ",
@@ -139,7 +139,7 @@
             ]
         },
         "description": "6thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Baby cruising Love / マカロニ",
@@ -159,7 +159,7 @@
             "bonusDisc": null
         },
         "description": "6thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "love the world",
@@ -181,7 +181,7 @@
             ]
         },
         "description": "7thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "love the world",
@@ -201,7 +201,7 @@
             "bonusDisc": null
         },
         "description": "7thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Dream Fighter",
@@ -223,7 +223,7 @@
             ]
         },
         "description": "8thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Dream Fighter",
@@ -243,7 +243,7 @@
             "bonusDisc": null
         },
         "description": "8thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ワンルーム・ディスコ",
@@ -265,7 +265,7 @@
             ]
         },
         "description": "9thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ワンルーム・ディスコ",
@@ -285,7 +285,7 @@
             "bonusDisc": null
         },
         "description": "9thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "不自然なガール / ナチュラルに恋して",
@@ -307,7 +307,7 @@
             ]
         },
         "description": "10thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "不自然なガール / ナチュラルに恋して",
@@ -327,7 +327,7 @@
             "bonusDisc": null
         },
         "description": "10thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "VOICE",
@@ -349,7 +349,7 @@
             ]
         },
         "description": "11thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "VOICE",
@@ -369,7 +369,7 @@
             "bonusDisc": null
         },
         "description": "11thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ねぇ",
@@ -391,7 +391,7 @@
             ]
         },
         "description": "12thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "ねぇ",
@@ -411,7 +411,7 @@
             "bonusDisc": null
         },
         "description": "12thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "レーザービーム / 微かなカオリ",
@@ -434,7 +434,7 @@
             ]
         },
         "description": "13thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "レーザービーム / 微かなカオリ",
@@ -454,7 +454,7 @@
             "bonusDisc": null
         },
         "description": "13thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "スパイス",
@@ -476,7 +476,7 @@
             ]
         },
         "description": "14thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "スパイス",
@@ -496,7 +496,7 @@
             "bonusDisc": null
         },
         "description": "14thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Spring of Life",
@@ -518,7 +518,7 @@
             ]
         },
         "description": "15thシングル。レーベル移籍後初めてのシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Spring of Life",
@@ -538,7 +538,7 @@
             "bonusDisc": null
         },
         "description": "15thシングル。レーベル移籍後初めてのシングル",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Spending all my time",
@@ -562,7 +562,7 @@
             ]
         },
         "description": "16thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Spending all my time",
@@ -584,7 +584,7 @@
             "bonusDisc": null
         },
         "description": "16thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "未来のミュージアム",
@@ -606,7 +606,7 @@
             ]
         },
         "description": "17thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "未来のミュージアム",
@@ -626,7 +626,7 @@
             "bonusDisc": null
         },
         "description": "17thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Magic of Love",
@@ -648,7 +648,7 @@
             ]
         },
         "description": "18thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Magic of Love",
@@ -668,7 +668,7 @@
             "bonusDisc": null
         },
         "description": "18thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Sweet Refrain",
@@ -690,7 +690,7 @@
             ]
         },
         "description": "19thシングル",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Sweet Refrain",
@@ -710,7 +710,7 @@
             "bonusDisc": null
         },
         "description": "19thシングル",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Cling Cling",
@@ -740,7 +740,7 @@
             ]
         },
         "description": "20thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Cling Cling",
@@ -769,7 +769,7 @@
             ]
         },
         "description": "20thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Cling Cling",
@@ -789,7 +789,7 @@
             "bonusDisc": null
         },
         "description": "20thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Relax In The City / Pick Me Up",
@@ -815,7 +815,7 @@
             ]
         },
         "description": "21thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Relax In The City / Pick Me Up",
@@ -841,7 +841,7 @@
             ]
         },
         "description": "21thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Relax In The City / Pick Me Up",
@@ -860,7 +860,7 @@
             "bonusDisc": null
         },
         "description": "21thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "STAR TRAIN",
@@ -885,7 +885,7 @@
             ]
         },
         "description": "22thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "STAR TRAIN",
@@ -903,7 +903,7 @@
             "bonusDisc": null
         },
         "description": "22thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "TOKYO GIRL",
@@ -927,7 +927,7 @@
             ]
         },
         "description": "23thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "TOKYO GIRL",
@@ -947,7 +947,7 @@
             "bonusDisc": null
         },
         "description": "23thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "If you wanna",
@@ -972,7 +972,7 @@
             ]
         },
         "description": "24thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "If you wanna",
@@ -995,7 +995,7 @@
             ]
         },
         "description": "24thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "If you wanna",
@@ -1015,7 +1015,7 @@
             "bonusDisc": null
         },
         "description": "24thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "無限未来",
@@ -1041,7 +1041,7 @@
             ]
         },
         "description": "25thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "無限未来",
@@ -1063,7 +1063,7 @@
             ]
         },
         "description": "25thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "無限未来",
@@ -1082,7 +1082,7 @@
             "bonusDisc": null
         },
         "description": "25thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Time Warp",
@@ -1107,7 +1107,7 @@
             ]
         },
         "description": "26thシングル。カセットテープ付き。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Time Warp",
@@ -1132,7 +1132,7 @@
             ]
         },
         "description": "26thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Time Warp",
@@ -1152,7 +1152,7 @@
             "bonusDisc": null
         },
         "description": "26thシングル。初回限定盤が捌けたら発売されるらしいがまだ売ってない？",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Flow",
@@ -1175,7 +1175,7 @@
             ]
         },
         "description": "27thシングル。特典ディスクとしてBlu-rayが選択できるように。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Flow",
@@ -1198,7 +1198,7 @@
             ]
         },
         "description": "27thシングル。",
-        "hasThis": false
+        "ownsThis": false
     },
     {
         "name": "Flow",
@@ -1218,6 +1218,6 @@
             "bonusDisc": null
         },
         "description": "27thシングル。",
-        "hasThis": false
+        "ownsThis": false
     }
 ]
