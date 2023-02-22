@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0727FCC229A66E4E00274CC2 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0727FCC129A66E4E00274CC2 /* Artwork.swift */; };
 		07C7BB7C29A5F3BD00D8143D /* PerfumeDiscographyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */; };
 		07C7BB7E29A5F3BD00D8143D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C7BB7D29A5F3BD00D8143D /* ContentView.swift */; };
 		07C7BB8029A5F3BF00D8143D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C7BB7F29A5F3BF00D8143D /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0727FCC129A66E4E00274CC2 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
 		07C7BB7829A5F3BD00D8143D /* PerfumeDiscography.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PerfumeDiscography.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfumeDiscographyApp.swift; sourceTree = "<group>"; };
 		07C7BB7D29A5F3BD00D8143D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0727FCC029A66DB600274CC2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				07C7BB7D29A5F3BD00D8143D /* ContentView.swift */,
+				0727FCC129A66E4E00274CC2 /* Artwork.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		07C7BB6F29A5F3BD00D8143D = {
 			isa = PBXGroup;
 			children = (
@@ -98,9 +109,9 @@
 		07C7BB7A29A5F3BD00D8143D /* PerfumeDiscography */ = {
 			isa = PBXGroup;
 			children = (
+				0727FCC029A66DB600274CC2 /* Views */,
 				07C7BBA829A5F5D100D8143D /* Resources */,
 				07C7BB7B29A5F3BD00D8143D /* PerfumeDiscographyApp.swift */,
-				07C7BB7D29A5F3BD00D8143D /* ContentView.swift */,
 				07C7BB7F29A5F3BF00D8143D /* Assets.xcassets */,
 				07C7BB8129A5F3BF00D8143D /* Preview Content */,
 			);
@@ -272,6 +283,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				07C7BB7E29A5F3BD00D8143D /* ContentView.swift in Sources */,
+				0727FCC229A66E4E00274CC2 /* Artwork.swift in Sources */,
 				07C7BB7C29A5F3BD00D8143D /* PerfumeDiscographyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
