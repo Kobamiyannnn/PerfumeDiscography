@@ -9,13 +9,15 @@
 import SwiftUI
 
 struct Artwork: View {
+    var product: Product
+
     var body: some View {
         ZStack {
-            Image("UPCP-9031")
+            product.artwork
                 .resizable()
                 .aspectRatio(contentMode: .fit)
-                .frame(height: 200)
-                .cornerRadius(8)
+                .frame(height: 250)
+                .shadow(radius: 7)
         }
     }
 }
@@ -23,7 +25,7 @@ struct Artwork: View {
 struct Artwork_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            Artwork()
+            Artwork(product: products[0])
         }
     }
 }
