@@ -9,13 +9,15 @@
 import SwiftUI
 
 struct ProductDetail: View {
+    @Environment(\.dismiss) var dismiss
+
     var product: Product
 
     var body: some View {
         ScrollView {
             VStack(alignment: .center) {
                 Artwork(product: product)
-                    .padding(.bottom)
+                    .padding(.vertical)
 
                 Text(product.name)
                     .font(.title)
@@ -25,7 +27,7 @@ struct ProductDetail: View {
 
                 VStack {
                     HStack {
-                        Text("Single・\(product.edition)")
+                        Text("\(product.category.rawValue)・\(product.edition)")
                         OwningButton(isSet: .constant(product.ownsThis))
                     }
                     .font(.subheadline)
@@ -58,16 +60,24 @@ struct ProductDetail: View {
                 HStack {
                     Text("Description")
                         .font(.title)
-                    .bold()
+                        .bold()
                     Spacer()
                 }
                 Text(product.description)
             }
-
         }
         .padding(.horizontal)
+        .navigationTitle(product.name)
+        .navigationBarTitleDisplayMode(.inline)
+        .navigationBarBackButtonHidden(true)
+        .toolbar {
+            ToolbarItem(placement: .navigationBarLeading) {
+                Button(action: { dismiss() }, label: { Image(systemName: "chevron.backward") })
+            }
+        }
     }
 }
+
 
 struct ProductDetail_Previews: PreviewProvider {
     static var previews: some View {

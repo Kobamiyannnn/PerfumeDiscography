@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0727FCC229A66E4E00274CC2 /* Artwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0727FCC129A66E4E00274CC2 /* Artwork.swift */; };
+		0767DCC729ACF57E00B510D3 /* Background.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0767DCC629ACF57E00B510D3 /* Background.swift */; };
 		0792A29029A7175C00EE1E9E /* ProductDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0792A28F29A7175C00EE1E9E /* ProductDetail.swift */; };
 		0792A29329A7201200EE1E9E /* OwningButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0792A29229A7201200EE1E9E /* OwningButton.swift */; };
 		0792A29729A74EE600EE1E9E /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0792A29629A74EE600EE1E9E /* ModelData.swift */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		0727FCC129A66E4E00274CC2 /* Artwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artwork.swift; sourceTree = "<group>"; };
+		0767DCC629ACF57E00B510D3 /* Background.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Background.swift; sourceTree = "<group>"; };
 		0792A28F29A7175C00EE1E9E /* ProductDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetail.swift; sourceTree = "<group>"; };
 		0792A29229A7201200EE1E9E /* OwningButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OwningButton.swift; sourceTree = "<group>"; };
 		0792A29629A74EE600EE1E9E /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 			children = (
 				0727FCC129A66E4E00274CC2 /* Artwork.swift */,
 				0792A29229A7201200EE1E9E /* OwningButton.swift */,
+				0767DCC629ACF57E00B510D3 /* Background.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				0792A2A229A7BD4B00EE1E9E /* ProductList.swift in Sources */,
 				07C7BB7C29A5F3BD00D8143D /* PerfumeDiscographyApp.swift in Sources */,
 				0792A29729A74EE600EE1E9E /* ModelData.swift in Sources */,
+				0767DCC729ACF57E00B510D3 /* Background.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

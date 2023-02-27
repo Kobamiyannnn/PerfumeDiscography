@@ -10,8 +10,15 @@ import SwiftUI
 
 struct ProductList: View {
     var body: some View {
-        List(products) { product in
-            ProductRow(product: product)
+        NavigationView {
+            List(products) { product in
+                NavigationLink {
+                    ProductDetail(product: product)
+                } label: {
+                    ProductRow(product: product)
+                }
+            }
+            .navigationTitle("Discography")
         }
     }
 }
