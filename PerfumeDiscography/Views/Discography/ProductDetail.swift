@@ -32,7 +32,7 @@ struct ProductDetail: View {
 
                     VStack {
                         Text("\(product.releaseDate) release")
-                        Text("\(product.productNumber)")
+                        Text("\(product.id)")
                     }
                     .font(.caption)
                 }

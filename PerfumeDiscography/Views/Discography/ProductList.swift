@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ProductList: View {
     var body: some View {
-        List(products, id: \.self) { product in
+        List(products) { product in
             ProductRow(product: product)
         }
     }

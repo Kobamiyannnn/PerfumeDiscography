@@ -4,7 +4,7 @@
         "category": "Single",
         "releaseDate": "2005-09-21",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-72902",
+        "id": "TKCA-72902",
         "edition": "通常盤",
         "price": 1200,
         "contents": {
@@ -23,7 +23,7 @@
         "category": "Single",
         "releaseDate": "2006-01-11",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-72971",
+        "id": "TKCA-72971",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -41,7 +41,7 @@
         "category": "Single",
         "releaseDate": "2006-06-28",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73017",
+        "id": "TKCA-73017",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -59,7 +59,7 @@
         "category": "Single",
         "releaseDate": "2007-02-14",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73158",
+        "id": "TKCA-73158",
         "edition": "初回生産限定盤",
         "price": 2000,
         "contents": {
@@ -80,7 +80,7 @@
         "category": "Single",
         "releaseDate": "2007-09-12",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73250",
+        "id": "TKCA-73250",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -103,7 +103,7 @@
         "category": "Single",
         "releaseDate": "2007-09-12",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73255",
+        "id": "TKCA-73255",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -124,7 +124,7 @@
         "category": "Single",
         "releaseDate": "2008-01-16",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73310",
+        "id": "TKCA-73310",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -146,7 +146,7 @@
         "category": "Single",
         "releaseDate": "2008-01-16",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73315",
+        "id": "TKCA-73315",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -166,7 +166,7 @@
         "category": "Single",
         "releaseDate": "2008-07-09",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73330",
+        "id": "TKCA-73330",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -188,7 +188,7 @@
         "category": "Single",
         "releaseDate": "2008-07-09",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73335",
+        "id": "TKCA-73335",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -208,7 +208,7 @@
         "category": "Single",
         "releaseDate": "2008-11-19",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73390",
+        "id": "TKCA-73390",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -230,7 +230,7 @@
         "category": "Single",
         "releaseDate": "2008-11-19",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73395",
+        "id": "TKCA-73395",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -250,7 +250,7 @@
         "category": "Single",
         "releaseDate": "2009-03-25",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73430",
+        "id": "TKCA-73430",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -272,7 +272,7 @@
         "category": "Single",
         "releaseDate": "2009-03-25",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73435",
+        "id": "TKCA-73435",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -292,7 +292,7 @@
         "category": "Single",
         "releaseDate": "2010-04-14",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73520",
+        "id": "TKCA-73520",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -314,7 +314,7 @@
         "category": "Single",
         "releaseDate": "2010-04-14",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73525",
+        "id": "TKCA-73525",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -334,7 +334,7 @@
         "category": "Single",
         "releaseDate": "2010-08-11",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73560",
+        "id": "TKCA-73560",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -356,7 +356,7 @@
         "category": "Single",
         "releaseDate": "2010-08-11",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73565",
+        "id": "TKCA-73565",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -376,7 +376,7 @@
         "category": "Single",
         "releaseDate": "2010-11-10",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73620",
+        "id": "TKCA-73620",
         "edition": "初回限定盤",
         "price": 1238,
         "contents": {
@@ -398,7 +398,7 @@
         "category": "Single",
         "releaseDate": "2010-11-10",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73625",
+        "id": "TKCA-73625",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -418,7 +418,7 @@
         "category": "Single",
         "releaseDate": "2011-05-18",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73650",
+        "id": "TKCA-73650",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -441,7 +441,7 @@
         "category": "Single",
         "releaseDate": "2011-05-18",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73655",
+        "id": "TKCA-73655",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -461,7 +461,7 @@
         "category": "Single",
         "releaseDate": "2011-11-02",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73720",
+        "id": "TKCA-73720",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -483,7 +483,7 @@
         "category": "Single",
         "releaseDate": "2011-11-02",
         "recordLabel": "Tokuma Japan Communication",
-        "productNumber": "TKCA-73725",
+        "id": "TKCA-73725",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -503,7 +503,7 @@
         "category": "Single",
         "releaseDate": "2012-04-11",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9001",
+        "id": "UPCP-9001",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -525,7 +525,7 @@
         "category": "Single",
         "releaseDate": "2012-04-11",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5001",
+        "id": "UPCP-5001",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -545,7 +545,7 @@
         "category": "Single",
         "releaseDate": "2012-08-15",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9002",
+        "id": "UPCP-9002",
         "edition": "初回限定盤",
         "price": 1695,
         "contents": {
@@ -569,7 +569,7 @@
         "category": "Single",
         "releaseDate": "2012-08-15",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5002",
+        "id": "UPCP-5002",
         "edition": "通常盤",
         "price": 1200,
         "contents": {
@@ -591,7 +591,7 @@
         "category": "Single",
         "releaseDate": "2013-02-27",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9003",
+        "id": "UPCP-9003",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -613,7 +613,7 @@
         "category": "Single",
         "releaseDate": "2013-02-27",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5003",
+        "id": "UPCP-5003",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -633,7 +633,7 @@
         "category": "Single",
         "releaseDate": "2013-05-22",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9004",
+        "id": "UPCP-9004",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -655,7 +655,7 @@
         "category": "Single",
         "releaseDate": "2013-05-22",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5004",
+        "id": "UPCP-5004",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -675,7 +675,7 @@
         "category": "Single",
         "releaseDate": "2013-11-27",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9006",
+        "id": "UPCP-9006",
         "edition": "初回限定盤",
         "price": 1429,
         "contents": {
@@ -697,7 +697,7 @@
         "category": "Single",
         "releaseDate": "2013-11-27",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5005",
+        "id": "UPCP-5005",
         "edition": "通常盤",
         "price": 952,
         "contents": {
@@ -717,7 +717,7 @@
         "category": "Single",
         "releaseDate": "2014-07-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9007",
+        "id": "UPCP-9007",
         "edition": "完全生産限定盤",
         "price": 2430,
         "contents": {
@@ -747,7 +747,7 @@
         "category": "Single",
         "releaseDate": "2014-07-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9008",
+        "id": "UPCP-9008",
         "edition": "初回盤",
         "price": 1950,
         "contents": {
@@ -776,7 +776,7 @@
         "category": "Single",
         "releaseDate": "2014-07-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5006",
+        "id": "UPCP-5006",
         "edition": "通常盤",
         "price": 1450,
         "contents": {
@@ -796,7 +796,7 @@
         "category": "Single",
         "releaseDate": "2015-04-29",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9010",
+        "id": "UPCP-9010",
         "edition": "完全生産限定盤",
         "price": 2407,
         "contents": {
@@ -822,7 +822,7 @@
         "category": "Single",
         "releaseDate": "2015-04-29",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9011",
+        "id": "UPCP-9011",
         "edition": "初回盤",
         "price": 1759,
         "contents": {
@@ -848,7 +848,7 @@
         "category": "Single",
         "releaseDate": "2015-04-29",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5007",
+        "id": "UPCP-5007",
         "edition": "通常盤",
         "price": 1343,
         "contents": {
@@ -867,7 +867,7 @@
         "category": "Single",
         "releaseDate": "2015-10-28",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9012",
+        "id": "UPCP-9012",
         "edition": "初回限定盤",
         "price": 1850,
         "contents": {
@@ -892,7 +892,7 @@
         "category": "Single",
         "releaseDate": "2015-10-28",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5008",
+        "id": "UPCP-5008",
         "edition": "通常盤",
         "price": 926,
         "contents": {
@@ -910,7 +910,7 @@
         "category": "Single",
         "releaseDate": "2017-02-15",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9015",
+        "id": "UPCP-9015",
         "edition": "初回限定盤",
         "price": 1759,
         "contents": {
@@ -934,7 +934,7 @@
         "category": "Single",
         "releaseDate": "2017-02-15",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5009",
+        "id": "UPCP-5009",
         "edition": "通常盤",
         "price": 1343,
         "contents": {
@@ -954,7 +954,7 @@
         "category": "Single",
         "releaseDate": "2017-08-30",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9016",
+        "id": "UPCP-9016",
         "edition": "完全生産限定盤",
         "price": 2250,
         "contents": {
@@ -979,7 +979,7 @@
         "category": "Single",
         "releaseDate": "2017-08-30",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9017",
+        "id": "UPCP-9017",
         "edition": "初回限定盤",
         "price": 1759,
         "contents": {
@@ -1002,7 +1002,7 @@
         "category": "Single",
         "releaseDate": "2017-08-30",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5010",
+        "id": "UPCP-5010",
         "edition": "通常盤",
         "price": 1343,
         "contents": {
@@ -1022,7 +1022,7 @@
         "category": "Single",
         "releaseDate": "2018-03-14",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9018",
+        "id": "UPCP-9018",
         "edition": "初回限定盤",
         "price": 2250,
         "contents": {
@@ -1048,7 +1048,7 @@
         "category": "Single",
         "releaseDate": "2018-03-14",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9019",
+        "id": "UPCP-9019",
         "edition": "期間限定 ちはやふる盤",
         "price": 1574,
         "contents": {
@@ -1070,7 +1070,7 @@
         "category": "Single",
         "releaseDate": "2018-03-14",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5011",
+        "id": "UPCP-5011",
         "edition": "通常盤",
         "price": 1343,
         "contents": {
@@ -1089,7 +1089,7 @@
         "category": "Single",
         "releaseDate": "2020-09-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9026",
+        "id": "UPCP-9026",
         "edition": "完全生産限定盤",
         "price": 2627,
         "contents": {
@@ -1114,7 +1114,7 @@
         "category": "Single",
         "releaseDate": "2020-09-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9027",
+        "id": "UPCP-9027",
         "edition": "初回限定盤",
         "price": 1818,
         "contents": {
@@ -1139,7 +1139,7 @@
         "category": "Single",
         "releaseDate": "2020-09-16",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5012",
+        "id": "UPCP-5012",
         "edition": "通常盤",
         "price": 1343,
         "contents": {
@@ -1159,7 +1159,7 @@
         "category": "Single",
         "releaseDate": "2022-03-09",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9030",
+        "id": "UPCP-9030",
         "edition": "初回限定盤A",
         "price": 2800,
         "contents": {
@@ -1182,7 +1182,7 @@
         "category": "Single",
         "releaseDate": "2022-03-09",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-9031",
+        "id": "UPCP-9031",
         "edition": "初回限定盤B",
         "price": 2100,
         "contents": {
@@ -1205,7 +1205,7 @@
         "category": "Single",
         "releaseDate": "2022-03-09",
         "recordLabel": "Universal Music Japan",
-        "productNumber": "UPCP-5013",
+        "id": "UPCP-5013",
         "edition": "通常盤",
         "price": 1500,
         "contents": {

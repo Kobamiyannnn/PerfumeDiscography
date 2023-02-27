@@ -9,11 +9,11 @@
 import Foundation
 import SwiftUI
 
-struct Product: Hashable, Codable {
+struct Product: Hashable, Codable, Identifiable {
     var name: String
     var releaseDate: String
     var recordLabel: String
-    var productNumber: String
+    var id: String
     var edition: String
     var price: Int
     var contents: Contents
@@ -21,7 +21,7 @@ struct Product: Hashable, Codable {
     var ownsThis: Bool
 
     var artwork: Image {
-        Image(productNumber)
+        Image(id)
     }
 
     var category: Category
