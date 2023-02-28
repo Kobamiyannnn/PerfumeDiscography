@@ -30,6 +30,6 @@ struct Tunes: View {
 
 struct Tunes_Previews: PreviewProvider {
     static var previews: some View {
-        Tunes(product: products[0])
+        Tunes(product: ModelData().products[0])
     }
 }

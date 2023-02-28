@@ -38,6 +38,6 @@ struct BonusContents: View {
 
 struct BonusContents_Previews: PreviewProvider {
     static var previews: some View {
-        BonusContents(product: products[4])
+        BonusContents(product: ModelData().products[4])
     }
 }

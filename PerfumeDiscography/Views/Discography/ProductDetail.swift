@@ -9,9 +9,14 @@
 import SwiftUI
 
 struct ProductDetail: View {
+    @EnvironmentObject var modelData: ModelData
     @Environment(\.dismiss) var dismiss
 
     var product: Product
+
+    var productIndex: Int {
+        modelData.products.firstIndex(where: { $0.id == product.id })!
+    }
 
     var body: some View {
         ScrollView {
@@ -28,7 +33,7 @@ struct ProductDetail: View {
                 VStack {
                     HStack {
                         Text("\(product.category.rawValue)・\(product.edition)")
-                        OwningButton(isSet: .constant(product.ownsThis))
+                        OwningButton(isSet: $modelData.products[productIndex].ownsThis)
                     }
                     .font(.subheadline)
 
@@ -80,7 +85,10 @@ struct ProductDetail: View {
 
 
 struct ProductDetail_Previews: PreviewProvider {
+    static let modelData = ModelData()
+
     static var previews: some View {
-        ProductDetail(product: products[34])
+        ProductDetail(product: modelData.products[34])
+            .environmentObject(modelData)
     }
 }

@@ -24,8 +24,6 @@ struct Artwork: View {
 
 struct Artwork_Previews: PreviewProvider {
     static var previews: some View {
-        Group {
-            Artwork(product: products[0])
-        }
+        Artwork(product: ModelData().products[0])
     }
 }

@@ -9,16 +9,31 @@
 import SwiftUI
 
 struct ProductList: View {
+    @EnvironmentObject var modelData: ModelData
+    @State private var showOwningsOnly = false
+
+    var filteredOwnings: [Product] {
+        modelData.products.filter { product in
+            (!showOwningsOnly || product.ownsThis)
+        }
+    }
+
     var body: some View {
         NavigationView {
-            List(products) { product in
-                NavigationLink {
-                    ProductDetail(product: product)
-                } label: {
-                    ProductRow(product: product)
+            List {
+                Toggle(isOn: $showOwningsOnly) {
+                    Text("I have this!")
                 }
+
+                ForEach(filteredOwnings) { product in
+                    NavigationLink {
+                        ProductDetail(product: product)
+                    } label: {
+                        ProductRow(product: product)
+                    }
+                }
+                .navigationTitle("Discography")
             }
-            .navigationTitle("Discography")
         }
     }
 }
@@ -26,5 +41,6 @@ struct ProductList: View {
 struct ProductList_Previews: PreviewProvider {
     static var previews: some View {
         ProductList()
+            .environmentObject(ModelData())
     }
 }

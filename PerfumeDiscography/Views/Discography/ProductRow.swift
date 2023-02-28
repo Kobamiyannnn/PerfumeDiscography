@@ -13,7 +13,7 @@ struct ProductRow: View {
 
     var body: some View {
         HStack {
-            ZStack(alignment: .leading) {
+            ZStack(alignment: .center) {
                 Rectangle()
                     .fill(.white)
                     .frame(width: 50, height: 50)
@@ -21,9 +21,10 @@ struct ProductRow: View {
                 product.artwork
                     .resizable()
                     .aspectRatio(contentMode: .fit)
-                    .frame(width: 50)
+                    .frame(height: 50)
                     .cornerRadius(5)
             }
+            .frame(width: 50, height: 50)
             
             VStack(alignment: .leading) {
                 Text(product.name)
@@ -49,6 +50,6 @@ struct ProductRow: View {
 
 struct ProductRow_Previews: PreviewProvider {
     static var previews: some View {
-        ProductRow(product: products[34])
+        ProductRow(product: ModelData().products[3])
     }
 }
