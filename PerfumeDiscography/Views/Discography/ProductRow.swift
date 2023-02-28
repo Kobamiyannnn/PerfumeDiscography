@@ -14,10 +14,6 @@ struct ProductRow: View {
     var body: some View {
         HStack {
             ZStack(alignment: .center) {
-                Rectangle()
-                    .fill(.white)
-                    .frame(width: 50, height: 50)
-                    .cornerRadius(5)
                 product.artwork
                     .resizable()
                     .aspectRatio(contentMode: .fit)
